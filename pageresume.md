@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Projects and Research
+title: Resume
 ---
 
 --------------------------------------------------------------------------------
-## Projects
+## Education
 
-## Research
+
+## Experience
+
+
+## Projects and Research
+
+## Skills
