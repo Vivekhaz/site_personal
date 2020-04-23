@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Vivek Hazari
+tagline:          'Synaptic Transmissions'
+description:      'A CS/PHIL major that is too lazy to write copy right now.'
+url:              vivek.fm
+baseurl:          /
+
+author:
+  name:           'Vivek Hazari'
+  url:            vivek.fm
+
+plugins: [jekyll-paginate]
+paginate:         5
+paginate_path: "page:num"
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/Vivekhaz/site
