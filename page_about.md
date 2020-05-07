@@ -19,8 +19,9 @@ Many of my hours each year have gone to fencing since I started in May 2015. I f
 
 --------------------------------------------------------------------------------
 ### Reading in 2020
-A running list of what I've completed, have in progress, or want to get through by the end of 2020. 
+A running list of what I've completed, have in progress, or want to get through by the end of 2020. Hopefully, none of these wind up pushed back to the 2021 list.
 
+- __Inadequate Equilibria__ <cite> by Eliezer Yudkowsky </cite>
 - __Skin in the Game__ <cite> by Nassim Nicholas Taleb </cite>
 - __Homo Deus__ <cite> by Yuval Noah Harari</cite>
 - __The Castle__ <cite> by Franz Kafka </cite>
