@@ -4,6 +4,9 @@
 
 **Vivek Hazari**
 
+##### To build locally:
+
+`jekyll serve`
 
 ### Developed on top of Hyde, by Mark Otto. Check him out here.
 **Mark Otto**
