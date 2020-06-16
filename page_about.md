@@ -7,7 +7,7 @@ published: true
 --------------------------------------------------------------------------------
 ### Me
 
-<img src="/public/photo-face.jpg" alt="my-face" hieght="50%" width="50%">
+<img src="/public/photo-face.jpg" alt="my-face" height="80%" width="80%">
 
 I'm currently studying at Dartmouth College, in Hanover, NH. I try to spend much of my free time reading or listening to quality content. 
 
@@ -31,7 +31,6 @@ A running list of what I've completed, have in progress, or want to get through 
 - __A Staggering Work of Heartbreaking Genius__  <cite> by Dave Eggers</cite>
 - __Billion Dollar Whale__ <cite> by Bradley Hope and Tom Wright </cite>
 - __The Promise of AI__  <cite> by Brian Cantwell Smith </cite> 
-
 
 --------------------------------------------------------------------------------
 ### Read in 2019
