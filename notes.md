@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Notes and Links
+published: true
 ---
 
 --------------------------------------------------------------------------------
@@ -17,6 +18,8 @@ These are my notes for the classes that lend themselves to digital notes. Some o
 #### Computer Science
 
 #### Everything Else
+
+[SOCY 49.01: Theories of Democratization](https://vivekhaz.github.io/SOCY49/)
 
 --------------------------------------------------------------------------------
 ### Papers and Topics
