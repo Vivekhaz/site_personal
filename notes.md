@@ -50,6 +50,9 @@ CS-related course websites, texts, and anything else that might fall into this c
 
 #### NLP
 
+[Deep Learning for NLP @ Stanford](http://cs224d.stanford.edu/syllabus.html)
+
+
 #### Algorithms & CS
 
 #### Security 
@@ -63,6 +66,7 @@ CS-related course websites, texts, and anything else that might fall into this c
 [Intro. To Parallel Computing @ Stanford](https://ericdarve.github.io)
 [Adv. Architecture @ CMU](http://course.ece.cmu.edu/~ece742/F18/readingschedule.html)
 [Parallel Architecture @ Princeton](https://www.cs.princeton.edu/courses/archive/spr07/cos598A/)
+[Operations on Binary]
 
 #### Modern C++
 
@@ -79,8 +83,9 @@ CS-related course websites, texts, and anything else that might fall into this c
 
 #### Blogs
 
+#### Fun Links
 
-
+[Jargon File](http://jargon-file.org)
 
 --------------------------------------------------------------------------------
 ### Other Resources
