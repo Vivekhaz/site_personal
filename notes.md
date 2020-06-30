@@ -40,6 +40,10 @@ CS-related course websites, texts, and anything else that might fall into this c
 
 #### Deep Learning
 
+[Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
+[WildML (Denny Britz)](http://www.wildml.com)
+
+
 #### Reinforcement Learning
 
 #### Linear Algebra
@@ -62,7 +66,12 @@ CS-related course websites, texts, and anything else that might fall into this c
 
 #### Modern C++
 
+[Dartmouth CS50 Resources (ANSI C)](https://www.cs.dartmouth.edu/~campbell/cs50/resources.html)
+
 #### Python
+
+[Think Python (Intro Text)](https://greenteapress.com/wp/think-python-2e/)
+[Python Tutorial Docs](https://docs.python.org/3/tutorial/index.html)
 
 #### Functional Programming
 
@@ -87,5 +96,9 @@ Papers I have found interesting or noteworking.
 --------------------------------------------------------------------------------
 ### 
 A collection of webpages I've interested in, or found interesting at some point. I've tried to replace my use of Reddit with RSS and these pages.
+
+
+[Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
+[Dartmouth CS Department on Grad. School]()
 
 
