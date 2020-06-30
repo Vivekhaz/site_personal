@@ -44,15 +44,21 @@ CS-related course websites, texts, and anything else that might fall into this c
 
 #### Linear Algebra
 
+#### NLP
+
 #### Algorithms & CS
 
 #### Security 
 
 #### Computer Networks and Graph Theory
 
-#### Math Catch-all
-
 #### Computer Architecture
+
+
+[Adv. Topics in Architecture @ Stanford](http://web.stanford.edu/class/ee392c/info.html)
+[Intro. To Parallel Computing @ Stanford](https://ericdarve.github.io)
+[Adv. Architecture @ CMU](http://course.ece.cmu.edu/~ece742/F18/readingschedule.html)
+[Parallel Architecture @ Princeton](https://www.cs.princeton.edu/courses/archive/spr07/cos598A/)
 
 #### Modern C++
 
@@ -60,8 +66,12 @@ CS-related course websites, texts, and anything else that might fall into this c
 
 #### Functional Programming
 
-
 []()
+
+#### Blogs
+
+
+
 
 --------------------------------------------------------------------------------
 ### Other Resources
