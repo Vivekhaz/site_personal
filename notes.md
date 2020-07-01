@@ -36,6 +36,9 @@ Pages which I find helpful. These might be blogs, research groups, repos, or any
 ### CS Resources
 CS-related course websites, texts, and anything else that might fall into this category.
 
+In Quarantime, this site has been an incredible resource.
+[researchseminars.org](https://researchseminars.org)
+
 #### Probability & Statistics
 
 #### Deep Learning
