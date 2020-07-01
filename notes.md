@@ -32,12 +32,12 @@ These are annotations on technical papers I've tried to understand, and on broad
 --------------------------------------------------------------------------------
 ## Links
 
-Pages which I find helpful. These might be blogs, research groups, repos, or anything else which can be found with a URL. 
+A public list of bookmarks. These might be blogs, research groups, repos, or anything else which can be found with a URL. I've tried to replace my use of Reddit with RSS and these pages.
 
 ### CS Resources
 CS-related course websites, texts, and anything else that might fall into this category.
 
-In Quarantime, this site has been an incredible resource.
+In Quarantime, this site has been incredible.
 - [researchseminars.org](https://researchseminars.org)
 
 #### Probability & Statistics
@@ -87,13 +87,18 @@ In Quarantime, this site has been an incredible resource.
 
 #### Blogs
 
+#### Helpful Other
+
+- [Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
+- [Dartmouth CS Department on Grad. School]()
+
 #### Fun Links
 
 - [Jargon File](http://jargon-file.org)
 
 --------------------------------------------------------------------------------
 ### Other Resources
-Papers I have found interesting or noteworking.
+Papers and pages I have found interesting or noteworking.
 
 #### Moral Philosophy & Ethics
 
@@ -103,11 +108,9 @@ Papers I have found interesting or noteworking.
 
 
 --------------------------------------------------------------------------------
-### 
-A collection of webpages I've interested in, or found interesting at some point. I've tried to replace my use of Reddit with RSS and these pages.
 
 
-- [Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
-- [Dartmouth CS Department on Grad. School]()
+
+
 
 
