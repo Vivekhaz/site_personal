@@ -21,6 +21,7 @@ These are my notes for the classes that lend themselves to digital notes. Some o
 #### Everything Else
 
 [PHIL 38.01: Equality, Justice, and Democracy](https://vivekhaz.github.io/PHIL38/)
+
 [SOCY 49.01: Theories of Democratization](https://vivekhaz.github.io/SOCY49/)
 
 
@@ -37,14 +38,14 @@ Pages which I find helpful. These might be blogs, research groups, repos, or any
 CS-related course websites, texts, and anything else that might fall into this category.
 
 In Quarantime, this site has been an incredible resource.
-[researchseminars.org](https://researchseminars.org)
+- [researchseminars.org](https://researchseminars.org)
 
 #### Probability & Statistics
 
 #### Deep Learning
 
-[Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
-[WildML (Denny Britz)](http://www.wildml.com)
+- [Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
+- [WildML (Denny Britz)](http://www.wildml.com)
 
 
 #### Reinforcement Learning
@@ -53,7 +54,7 @@ In Quarantime, this site has been an incredible resource.
 
 #### NLP
 
-[Deep Learning for NLP @ Stanford](http://cs224d.stanford.edu/syllabus.html)
+- [Deep Learning for NLP @ Stanford](http://cs224d.stanford.edu/syllabus.html)
 
 
 #### Algorithms & CS
@@ -65,20 +66,20 @@ In Quarantime, this site has been an incredible resource.
 #### Computer Architecture
 
 
-[Adv. Topics in Architecture @ Stanford](http://web.stanford.edu/class/ee392c/info.html)
-[Intro. To Parallel Computing @ Stanford](https://ericdarve.github.io)
-[Adv. Architecture @ CMU](http://course.ece.cmu.edu/~ece742/F18/readingschedule.html)
-[Parallel Architecture @ Princeton](https://www.cs.princeton.edu/courses/archive/spr07/cos598A/)
-[Operations on Binary]
+- [Adv. Topics in Architecture @ Stanford](http://web.stanford.edu/class/ee392c/info.html)
+- [Intro. To Parallel Computing @ Stanford](https://ericdarve.github.io)
+- [Adv. Architecture @ CMU](http://course.ece.cmu.edu/~ece742/F18/readingschedule.html)
+- [Parallel Architecture @ Princeton](https://www.cs.princeton.edu/courses/archive/spr07/cos598A/)
+- [Operations on Binary]
 
 #### Modern C++
 
-[Dartmouth CS50 Resources (ANSI C)](https://www.cs.dartmouth.edu/~campbell/cs50/resources.html)
+- [Dartmouth CS50 Resources (ANSI C)](https://www.cs.dartmouth.edu/~campbell/cs50/resources.html)
 
 #### Python
 
-[Think Python (Intro Text)](https://greenteapress.com/wp/think-python-2e/)
-[Python Tutorial Docs](https://docs.python.org/3/tutorial/index.html)
+- [Think Python (Intro Text)](https://greenteapress.com/wp/think-python-2e/)
+- [Python Tutorial Docs](https://docs.python.org/3/tutorial/index.html)
 
 #### Functional Programming
 
@@ -88,7 +89,7 @@ In Quarantime, this site has been an incredible resource.
 
 #### Fun Links
 
-[Jargon File](http://jargon-file.org)
+- [Jargon File](http://jargon-file.org)
 
 --------------------------------------------------------------------------------
 ### Other Resources
@@ -106,7 +107,7 @@ Papers I have found interesting or noteworking.
 A collection of webpages I've interested in, or found interesting at some point. I've tried to replace my use of Reddit with RSS and these pages.
 
 
-[Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
-[Dartmouth CS Department on Grad. School]()
+- [Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
+- [Dartmouth CS Department on Grad. School]()
 
 
