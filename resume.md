@@ -69,5 +69,7 @@ Please see the _Projects and Research_ tab for details.
 --------------------------------------------------------------------------------
 ## Skills
 
-- Programming Languages: Proficient: Python | Familiar: Java, C, C++, VHDL
+- Programming Languages
+  -  Proficient: Python
+  -  Familiar: Java, C, C++, VHDL
 - Technologies: Web Scraping, Git, UNIX, MySQL, Data Processing, Machine Learning, REST APIs, ANNs, Shell, LaTeX
