@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Résumé
 ---
 
 A one page PDF version is available [here](/public/vivek_hazari_resume-summer_20.pdf).
