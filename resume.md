@@ -12,7 +12,7 @@ A one page PDF version is available [here](/public/vivek_hazari_resume-summer_20
 ##### _Intended Double Major in Computer Science & Philosophy_
 #### Relevant Courses:
 
-- Relevant Coursework: Linear Algebra (Honors Section), Graph Theory, Software Design \& Implementation, Algorithms, Discrete Math, Computer Architecture, Digital Electronics 
+- Relevant Coursework: Linear Algebra (Honors Section), Graph Theory, Software Design & Implementation, Algorithms, Discrete Math, Computer Architecture, Digital Electronics 
 - Citation for Academic Excellence in Introduction to Programming and Computation, Machine Learning
 
 ### University of Edinburgh -- Fall 2019
@@ -70,6 +70,6 @@ Please see the _Projects and Research_ tab for details.
 ## Skills
 
 - Programming Languages
-  -  Proficient: Python
-  -  Familiar: Java, C, C++, VHDL
+  - Proficient: Python
+  - Familiar: Java, C, C++, VHDL
 - Technologies: Web Scraping, Git, UNIX, MySQL, Data Processing, Machine Learning, REST APIs, ANNs, Shell, LaTeX
