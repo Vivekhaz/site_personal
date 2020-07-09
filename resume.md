@@ -64,7 +64,7 @@ A one page PDF version is available [here](/public/vivek_hazari_resume-summer_20
 --------------------------------------------------------------------------------
 ## Projects and Research
 
-Please see the _Projects and Research_ tab for details.
+Please see the [Projects and Research](/projects.md) tab for details.
 
 --------------------------------------------------------------------------------
 ## Skills
