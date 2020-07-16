@@ -20,9 +20,8 @@ These are my notes for the classes that lend themselves to digital notes. Some o
 
 #### Everything Else
 
-[PHIL 38.01: Equality, Justice, and Democracy](https://vivekhaz.github.io/PHIL38/)
-
-[SOCY 49.01: Theories of Democratization](https://vivekhaz.github.io/SOCY49/)
+- [PHIL 38.01: Equality, Justice, and Democracy](https://vivekhaz.github.io/PHIL38/)
+- [SOCY 49.01: Theories of Democratization](https://vivekhaz.github.io/SOCY49/)
 
 
 --------------------------------------------------------------------------------
@@ -47,30 +46,26 @@ In Quarantime, this site has been incredible.
 - [Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 - [WildML (Denny Britz)](http://www.wildml.com)
 
-
 #### Reinforcement Learning
 
-#### Linear Algebra
+#### Linear Algebra & Geometry
 
 #### NLP
 
 - [Deep Learning for NLP @ Stanford](http://cs224d.stanford.edu/syllabus.html)
 
 
-#### Algorithms & CS
+#### Algorithms & CS Theory
 
-#### Security 
 
-#### Computer Networks and Graph Theory
+#### Computer Networks & Graph Theory
 
 #### Computer Architecture
-
 
 - [Adv. Topics in Architecture @ Stanford](http://web.stanford.edu/class/ee392c/info.html)
 - [Intro. To Parallel Computing @ Stanford](https://ericdarve.github.io)
 - [Adv. Architecture @ CMU](http://course.ece.cmu.edu/~ece742/F18/readingschedule.html)
 - [Parallel Architecture @ Princeton](https://www.cs.princeton.edu/courses/archive/spr07/cos598A/)
-- [Operations on Binary]
 
 #### Modern C++
 
@@ -83,14 +78,11 @@ In Quarantime, this site has been incredible.
 
 #### Functional Programming
 
-[]()
+- [The Y Combinator]()
 
 #### Blogs
 
-#### Helpful Other
 
-- [Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
-- [Dartmouth CS Department on Grad. School]()
 
 #### Fun Links
 
@@ -98,13 +90,14 @@ In Quarantime, this site has been incredible.
 
 --------------------------------------------------------------------------------
 ### Other Resources
-Papers and pages I have found interesting or noteworking.
+Papers and pages I have found interesting or noteworthy.
 
-#### Moral Philosophy & Ethics
+#### Writing
 
-#### Aesthetics
+#### Graduate Studies
 
-#### 
+- [Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
+- [Dartmouth CS Department on Grad. School]()
 
 
 --------------------------------------------------------------------------------
