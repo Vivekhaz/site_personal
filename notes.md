@@ -15,10 +15,6 @@ A collection of notes on the courses I've taken, topics I've studied, and other 
 ### Course Work
 These are my notes for the classes that lend themselves to digital notes. Some of these will link to repos, some to pdfs, and others to course websites.
 
-#### Computer Science
-
-
-#### Everything Else
 
 - [PHIL 38.01: Equality, Justice, and Democracy](https://vivekhaz.github.io/PHIL38/)
 - [SOCY 49.01: Theories of Democratization](https://vivekhaz.github.io/SOCY49/)
@@ -67,7 +63,7 @@ In Quarantime, this site has been incredible.
 - [Adv. Architecture @ CMU](http://course.ece.cmu.edu/~ece742/F18/readingschedule.html)
 - [Parallel Architecture @ Princeton](https://www.cs.princeton.edu/courses/archive/spr07/cos598A/)
 
-#### Modern C++
+#### Modern C++/ C
 
 - [Dartmouth CS50 Resources (ANSI C)](https://www.cs.dartmouth.edu/~campbell/cs50/resources.html)
 
