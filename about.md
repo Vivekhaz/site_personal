@@ -17,7 +17,7 @@ I'm currently studying at Dartmouth College, in Hanover, NH. I try to spend much
 
 You can say hello at vivek dot 22 {at} dartmouth dot edu. 
 
-We can connect at [linkedin.com/in/Vivekhaz](https://linkedin.com/in/vivekhaz), and you can see what I've coding at [github.com/Vivekhaz](https://github.com/Vivekhaz).
+We can connect at [linkedin.com/in/Vivekhaz](https://linkedin.com/in/vivekhaz), and you can see what I've been coding at [github.com/Vivekhaz](https://github.com/Vivekhaz).
 
 
 --------------------------------------------------------------------------------
