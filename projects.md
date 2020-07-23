@@ -37,19 +37,19 @@ I was thoroughly unsatisfied by the design of available LaTeX templates for rés
 
 The majority of these projects are not open-sourced, as they are the result of programming assignments from my coursework. It would be unfair to the effort of the instructors and a violation of Dartmouth policy for me to share the code publicly.
 
-#### [FPGA Programming: ](/_projects/cs56_final.md)
+#### [FPGA Programming: ](/projects/cs56_final)
 
 This is an on-going project for the Summer of 2020. I am working with a partner to develop a Hardware Design for an FPGA that will work as synthesizer.
 
-#### [Nuggets, A Networked ASCII Rogue-like in ANSI C](/_projects/nuggets.md)
+#### [Nuggets, A Networked ASCII Rogue-like in ANSI C](/projects/nuggets)
 
 Nuggets was a group exercise, culminating in a game reminiscent of NetHack. Written in ANSI C, nuggets is played at the terminal, and consisted in a thin client written in `ncurses`, and a multithreaded server hosting the arena.
 
-#### [TSE, a Toy Search Engine Built in ANSI C](/_projects/tse.md)
+#### [TSE, a Toy Search Engine Built in ANSI C](/projects/tse)
 
 A project over three assignments, this constitutes a crawler, indexer, and querier. It is an implementation of an abstract structure for a search engine, which scrapes and indexes webpages, and uses an inverted index structure to power a query engine.
 
-#### [A functional subset of X86 (Y86) from Transistors](/_projects/y86.md)
+#### [A functional subset of X86 (Y86) from Transistors](/projects/y86)
 
 This was the culminating effort of my class in Computer Architecture. Throughout the term, we built iteratively, first simulating the creation of gates from CMOS transistors, up until the final project, where we implemented the Finite State Machine for Y86.
 

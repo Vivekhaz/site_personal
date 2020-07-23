@@ -20,8 +20,9 @@ plugins: [jekyll-paginate]
 paginate:         5
 paginate_path: "page:num"
 
+
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/Vivekhaz/site
+  repo:           https://github.com/Vivekhaz/site_personal

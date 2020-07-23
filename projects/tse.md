@@ -1,5 +1,7 @@
-Back to [Projects & Research](/projects.md).
+---
+layout: page_second
+title: Tiny Search Engine
+---
 
-# A Toy Search Engine
 ## Vivek Hazari, CS50
 

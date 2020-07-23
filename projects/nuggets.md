@@ -1,5 +1,6 @@
-Back to [Projects & Research](/projects.md).
+---
+layout: page_second
+title: Nuggets, a NetHack Like Game in ANSI C
+---
 
-# A Networked Roguelike
 ## Vivek Hazari, CS50
-
