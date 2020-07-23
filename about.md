@@ -23,19 +23,20 @@ We can connect at [linkedin.com/in/Vivekhaz](https://linkedin.com/in/vivekhaz), 
 --------------------------------------------------------------------------------
 ### Fencing
 
-Many of my hours each year have gone to fencing since I started in May 2015. I fence epee, which I started at The Phoenix Center in my home town. I have since continued and now practice with Dartmouth College Fencing Club, where I get to practice, compete, and coach. I also was treasurer for the 2019-2020 season, which was unfortunately cut short.
+Many of my hours each year have gone to fencing since I started in May 2015. I fence épée, which I started at The Phoenix Center in my home town. I have since continued and now practice with Dartmouth College Fencing Club, where I get to practice, compete, and coach. I also was treasurer for the 2019-2020 season, which was unfortunately cut short.
 
 --------------------------------------------------------------------------------
 ### Reading in 2020
 A running list of what I've completed or have in progress for this year. Hopefully, none of these wind up pushed back to the 2021 list.
 
-- __The Man Who Solved the Market__ by <cite> by Gregory Zuckerman </cite>
+- __The Art of Doing Science and Engineering__ <cite> by Richard Hamming </cite>
+- __The Man Who Solved the Market__ <cite> by Gregory Zuckerman </cite>
 - __Inadequate Equilibria__ <cite> by Eliezer Yudkowsky </cite>
 - __Skin in the Game__ <cite> by Nassim Nicholas Taleb </cite>
 - __Homo Deus__ <cite> by Yuval Noah Harari</cite>
 - __The Castle__ <cite> by Franz Kafka </cite>
 - __Dark Pools__  <cite> by Scott Patterson</cite>
-- __How to Get Filthy Rich in Rising Asia__  <cite> by </cite>
+- __How to Get Filthy Rich in Rising Asia__  <cite> by Mohsin Hamid </cite>
 - __A Staggering Work of Heartbreaking Genius__  <cite> by Dave Eggers</cite>
 - __Billion Dollar Whale__ <cite> by Bradley Hope and Tom Wright </cite>
 - __The Promise of AI__  <cite> by Brian Cantwell Smith </cite> 

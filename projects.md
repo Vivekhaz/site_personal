@@ -37,7 +37,7 @@ I was thoroughly unsatisfied by the design of available LaTeX templates for rés
 
 The majority of these projects are not open-sourced, as they are the result of programming assignments from my coursework. It would be unfair to the effort of the instructors and a violation of Dartmouth policy for me to share the code publicly.
 
-#### [FPGA Programming: ](/projects/cs56_final)
+#### [FPGA Programming](/projects/cs56_final)
 
 This is an on-going project for the Summer of 2020. I am working with a partner to develop a Hardware Design for an FPGA that will work as synthesizer.
 
@@ -55,6 +55,4 @@ This was the culminating effort of my class in Computer Architecture. Throughout
 
 #### [Assorted Introductory Coursework](/projects/intro)
 
-A quick tour of various medium-length programming assignments in Python and Java. Examples include an implementation of Huffman Encoding, A networked document system, a IRC like chatroom using UDP, and an public key encryption.
-
-
+A quick tour of various medium-length programming assignments in Python and Java. Examples include an implementation of Huffman Encoding, A networked document system, a IRC like chatroom using UDP, and an implementation public key encryption.
