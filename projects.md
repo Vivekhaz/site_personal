@@ -15,10 +15,6 @@ Disentanglement is the problem of separating multiple signals from a mixed datas
 
 Some of the topics I am working on: Disentanglement of Deterministic Finite Automata, Disentanglement applied to Abstract Reasoning, Disentanglement of Visual Representations.
 
-#### Natural Language Processing
-
-I have an interest in 
-
 --------------------------------------------------------------------------------
 
 ## Projects
@@ -27,7 +23,7 @@ I have an interest in
 
 #### [Robin]()
 
-
+Robin is an on-going effort in proactive suicide prevention. A collaborator and I compiled a scraped a dataset of over a million Reddit posts, inspired by the classifications of online text about suicide found in Psychological literature. We fine-tuned state of the art natural language processing models to detect suicidal text, and are working on creating a web extension to promote proactive suicide prevention online. 
 
 #### [LaTeX Templates](https://github.com/Vivekhaz/latex_professional_docs)
 
