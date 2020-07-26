@@ -13,11 +13,11 @@ Open-sourced work can be viewed at [github.com/Vivekhaz](https://github.com/Vive
 
 Disentanglement is the problem of separating multiple signals from a mixed dataset. It is hugely important for the advancement of general AI, as it entails the ability humans have to treat objects in the world as abstractions of the representations we see. 
 
-- Disentanglement of Deterministic Finite Automata
+Some of the topics I am working on: Disentanglement of Deterministic Finite Automata, Disentanglement applied to Abstract Reasoning, Disentanglement of Visual Representations.
 
 #### Natural Language Processing
 
-I am working 
+I have an interest in 
 
 --------------------------------------------------------------------------------
 
@@ -25,11 +25,15 @@ I am working
 
 ### Personal
 
-#### []
+#### [Robin]()
+
+
 
 #### [LaTeX Templates](https://github.com/Vivekhaz/latex_professional_docs)
 
-I was thoroughly unsatisfied by the design of available LaTeX templates for résumés and cover letters. I designed my own, with inspiration from Butterick's [Practical Typography](https://practicaltypography.com). I encourage you to check out support his work, and take pride in the details of your own designs.
+I was thoroughly unsatisfied by the design of available LaTeX templates for résumés and cover letters. So, I designed my own, with inspiration from Butterick's [Practical Typography](https://practicaltypography.com). I encourage you to support his work, and take pride in the details of your own designs.
+
+
 
 --------------------------------------------------------------------------------
 
