@@ -23,7 +23,7 @@ We can connect at [linkedin.com/in/Vivekhaz](https://linkedin.com/in/vivekhaz), 
 --------------------------------------------------------------------------------
 ### Fencing
 
-Many of my hours each year have gone to fencing since I started in May 2015. I fence épée, which I started at The Phoenix Center in my home town. I have since continued and now practice with Dartmouth College Fencing Club, where I get to practice, compete, and coach. I also was treasurer for the 2019-2020 season, which was unfortunately cut short.
+Many of my hours each year have gone to fencing since I started in May 2015. I fence épée, which I started at The Phoenix Center in my home town. I have since continued and now am with Dartmouth College Fencing Club, where I get to practice, compete, and coach. I also was treasurer for the 2019-2020 season, which was unfortunately cut short.
 
 --------------------------------------------------------------------------------
 ### Reading in 2020
