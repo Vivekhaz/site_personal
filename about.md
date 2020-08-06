@@ -33,6 +33,7 @@ A running list of what I've completed or have in progress for this year. Hopeful
 - __The Emperor of All Maladies__ <cite> by Siddhartha Mukherjee </cite>
 - __Educated__ <cite> by Tara Westover </cite>
 - __The Art of Doing Science and Engineering__ <cite> by Richard Hamming </cite>
+- __Practical Typography__ <cite> by Matthew Butterick </cite>
 - __The Man Who Solved the Market__ <cite> by Gregory Zuckerman </cite>
 - __Inadequate Equilibria__ <cite> by Eliezer Yudkowsky </cite>
 - __Skin in the Game__ <cite> by Nassim Nicholas Taleb </cite>
