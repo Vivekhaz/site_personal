@@ -53,9 +53,9 @@ Since starting my undergrad, I've tried to be more mindful about the books I'm c
 - __Fooled By Randomness__ <cite> by Nassim Nicholas Taleb </cite>
 - __The Black Swan__ <cite> by Nassim Nicholas Taleb </cite>
 - __The Quants__ <cite> by Scott Patterson </cite>
-- __Blink__ <cite> by Macolm Gladwell</cite> 
-- __Talking to Strangers__ <cite> by Macolm Gladwell</cite> 
-- __What the Dog Saw__ <cite> by Macolm Gladwell</cite> 
+- __Blink__ <cite> by Malcolm Gladwell</cite> 
+- __Talking to Strangers__ <cite> by Malcolm Gladwell</cite> 
+- __What the Dog Saw__ <cite> by Malcolm Gladwell</cite> 
 - __Sapiens__ <cite> by Yuval Noah Harari</cite>
 - __The Innovators Dilemma__ <cite> by Clayton Christensen </cite>
 - __How Will You Measure Your Life?__ <cite> by Clayton Christensen </cite>
