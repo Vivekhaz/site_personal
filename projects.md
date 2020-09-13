@@ -39,7 +39,7 @@ The majority of these projects are not open-sourced, as they are the result of p
 
 #### [FPGA Programming](/projects/cs56_final)
 
-This is an on-going project for the Summer of 2020. I am working with a partner to develop a Hardware Design for an FPGA that will work as synthesizer.
+This is an on-going project for the Summer of 2020. I am working with a partner to develop a Hardware Design for an FPGA which emulates the functionality of MS Paint. We read mouse input via the PS2 protocol, buffer a canvas, and output to a monitor using VGA out.
 
 #### [Nuggets, A Networked ASCII Rogue-like in ANSI C](/projects/nuggets)
 
