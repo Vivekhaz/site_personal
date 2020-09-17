@@ -29,7 +29,8 @@ Many of my hours each year have gone to fencing since I started in May 2015. I f
 ### Reading in 2020
 A running list of what I've completed or have in progress for this year. Hopefully, none of these wind up pushed back to the 2021 list.
 
-- __Principles <cite> by Ray Dalio </cite>
+- __The Undoing Project__ <cite> by Michael Lewis </cite>
+- __Principles__ <cite> by Ray Dalio </cite>
 - __The Pragmatic Programmer__ <cite> by David Thomas & Andrew Hunt </cite>
 - __The Emperor of All Maladies__ <cite> by Siddhartha Mukherjee </cite>
 - __Educated__ <cite> by Tara Westover </cite>
