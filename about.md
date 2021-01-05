@@ -37,6 +37,8 @@ If I could send one essay back to a much younger self, it would be 'Creating Wea
 
 I recommend the book to anyone with an interest in how some subsections of the world *really* work. I also caution against dogmatically accepting Graham's ideas, but instead digesting them and accepting the ones which you believe give you the most accurate view of the world. 
 
+See also: this blog post politely disagreeing - [Dabblers and Blowhards](https://idlewords.com/2005/04/dabblers_and_blowhards.htm)
+
 
 --------------------------------------------------------------------------------
 ### Reading in 2020
