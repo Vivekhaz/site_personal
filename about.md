@@ -7,8 +7,6 @@ published: true
 --------------------------------------------------------------------------------
 ### Me
 
-<img src="/public/photo-face.jpg" alt="my-face" height="80%" width="80%">
-
 I'm currently studying Computer Science and Philosophy at Dartmouth College, in Hanover, NH. I try to spend much of my free time reading or listening to quality content. 
 
 
