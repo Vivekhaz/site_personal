@@ -56,7 +56,7 @@ In Quarantime, this site has been incredible.
 
 #### Computer Networks & Graph Theory
 
-[Beej's Guide to Networking](https://beej.us/guide/bgnet/html/)
+[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 
 #### Computer Architecture
