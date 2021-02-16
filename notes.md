@@ -56,6 +56,8 @@ In Quarantime, this site has been incredible.
 
 #### Computer Networks & Graph Theory
 
+https://beej.us/guide/bgnet/html/
+
 #### Computer Architecture
 
 - [Adv. Topics in Architecture @ Stanford](http://web.stanford.edu/class/ee392c/info.html)
@@ -97,9 +99,3 @@ Papers and pages I have found interesting or noteworthy.
 
 
 --------------------------------------------------------------------------------
-
-
-
-
-
-
