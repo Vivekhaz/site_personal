@@ -27,7 +27,7 @@ Many of my hours each year have gone to fencing since I started in May 2015. I f
 ### Reading in 2021
 2020 proivided ample time for many of us to catch up on our reading list. Halfway through the year, I found I wasn't having as high of a retention as I would like. I started to read books with the intention of writing a short blurb of my impressions and takeaways. I won't be composing any book reports, but I will try to share some part of that blurb for each book in my 2021 list. 
 
-- __Hackers and Painters__ <cite> by Paul Graham </cite>
+#### __Hackers and Painters__ <cite> by Paul Graham </cite>
 
 I'm guilty of wasting time on Hacker News, so it was inenvitable I sit down and read the essays of Paul Graham, as compiled in his 2004 text. I wish I could claim Graham amongst my pantheon of childhood inspirations, but I wasn't familiar with his influence and rank in the startup ecosystem until 2019. It's a struggle to say anything insightful and coherent about the essays as a whole, but I was struck most by Graham's views on wealth. 
 
