@@ -98,5 +98,7 @@ Papers and pages I have found interesting or noteworthy.
 - [Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
 - [Dartmouth CS Department on Grad. School]()
 
+#### Fun Webapps and Products
 
+- [A Nice Logo Generator](https://mybrandnewlogo.com/)
 --------------------------------------------------------------------------------
