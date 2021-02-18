@@ -259,11 +259,23 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Dark Blue */
+
+
+/* 2020 (Black and White) */
 .theme-base-2020 .sidebar {
   background-color: #ffffff;
 }
 .theme-base-2020 .content a,
 .theme-base-2020 .related-posts li a:hover {
   color: #000000;
+}
+
+
+/* 2021 ( Teal Green ) */
+.theme-base-2021 .sidebar {
+  background-color: #ffffff;
+}
+.theme-base-2021 .content a,
+.theme-base-2021 .related-posts li a:hover {
+  color: #32B17F;
 }
