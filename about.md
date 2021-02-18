@@ -27,20 +27,28 @@ Many of my hours each year have gone to fencing since I started in May 2015. I f
 ### Reading in 2021
 2020 proivided ample time for many of us to catch up on our reading list. Halfway through the year, I found I wasn't having as high of a retention as I would like. I started to read books with the intention of writing a short blurb of my impressions and takeaways. I won't be composing any book reports, but I will try to share some part of that blurb for each book in my 2021 list. 
 
+#### __Recursion__ <cite> by Blake Crouch </cite>
+
+I read this as part of a book club during my internship at Ocient, per the recommendation of a full-time SWE. While I tend more towards non-fiction, Recursion was a thrilling return to the kind of sci-fi I used to devour when I was younger.
+
+Recursion is hard to talk about without spoiling, so I won't emphasize my takeways on the plot. My feelings at the end of the book were that this is a novel written around a thought experiment. I don't say that derogatively; I feel that most of the best sci-fi novels are birthed from a clever premise or a flash of narrative creativity from the author, and then built up iteratively by following premises to their conclusions. This is more challenging than people give it credit for. I thought Crouch did a fair job with internal consistency in his world. If one can accept his cues for suspension of belief, i.e. "Quantum Physics", I felt that Crouch generally obeyed the rules he set for itself; he didn't hand-wave the salient parts of his book's mechanics (insofar as that is possible in sci-fi) in a way that benefitted the story. 
+
+I would recommend Recursion, but not for everyone. The characters that Crouch crafts in Recursion are tropes, and I get a sense that the book was written for the screen. This isn't a bad thing; from what I read, Netflix will be taking Recursion to the screen. Still, iff you know this type of novel isn't for you, you might want to pass on this book. 
+
 #### __Hackers and Painters__ <cite> by Paul Graham </cite>
 
 I'm guilty of wasting time on Hacker News, so it was inenvitable I sit down and read the essays of Paul Graham, as compiled in his 2004 text. I wish I could claim Graham amongst my pantheon of childhood inspirations, but I wasn't familiar with his influence and rank in the startup ecosystem until 2019. It's a struggle to say anything insightful and coherent about the essays as a whole, but I was struck most by Graham's views on wealth. 
 
 If I could send one essay back to a much younger self, it would be 'Creating Wealth'. Graham's insights on the societal mechanisms which tie wealth and work have not spread far past his sphere of influence in the world of tech startups, but I don't think they're wrong. I am still grappling with the ideas he presents in the essay that follows, 'Mind the Gap'. While I struggle to point out flaws in his premises, I cannot as easily go along with his conclusion that variation in income is a sign of health in a democratic society. I think I agree with the idea in isolation and to some degree, but I think a. that the degree of inequality in America in 2021 is making a difference in scale a difference in kind, and b. that wealth taxation is not inherently wrong, which Graham dismisses it as. 
 
-I recommend the book to anyone with an interest in how some subsections of the world *really* work. I also caution against dogmatically accepting Graham's ideas, but instead digesting them and accepting the ones which you believe give you the most accurate view of the world. 
+I recommend the book to anyone with an interest in systems; in how some subsections of the world *really* work. I also caution against dogmatically accepting Graham's ideas, but instead digesting them and accepting the ones which you believe give you the most accurate view of the world. 
 
-See also: this blog post politely disagreeing - [Dabblers and Blowhards](https://idlewords.com/2005/04/dabblers_and_blowhards.htm)
+See also this blog post politely disagreeing: [Dabblers and Blowhards](https://idlewords.com/2005/04/dabblers_and_blowhards.htm)
 
 
 --------------------------------------------------------------------------------
 ### Reading in 2020
-A list of the books I was able to complete in 2020. I thought it would be best to omit the technical books I read for now, but I will probably compile a list of O'Reilly books I used to supplement my liberal arts CS education when I graduate. These were all the books where I would recommend sitting down with a coffee and going through, if the opportunity finds you. I'm not sentimental about finishing books and movies that I start but don't enjoy, so I would describe all of these as "page-turners". I use the term loosely.
+A list of the books I was able to complete in 2020. I thought it would be best to omit the technical books I read for now, but I will probably compile a list of O'Reilly books I used to supplement my liberal arts CS education when I graduate. These are all books I would recommend sitting down with a coffee and going through, if the opportunity finds you. I'm not sentimental about finishing books and movies that I start but don't enjoy, so I would describe all of these as "page-turners". I use the term loosely.
 
 - __The Undoing Project__ <cite> by Michael Lewis </cite>
 - __Principles__ <cite> by Ray Dalio </cite>
