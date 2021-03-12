@@ -27,7 +27,7 @@ These are annotations on technical papers I've tried to understand, and on broad
 --------------------------------------------------------------------------------
 ## Links
 
-A public list of bookmarks. These might be blogs, research groups, repos, or anything else which can be found with a URL. I've tried to replace my use of Reddit with RSS and these pages.
+A list of bookmarks I found helpful or interesting. These might be blogs, research groups, repos, or anything else which can be found with a URL.
 
 ### CS Resources
 CS-related course websites, texts, and anything else that might fall into this category.
@@ -67,7 +67,7 @@ In Quarantime, this site has been incredible.
 - [Parallel Architecture @ Princeton](https://www.cs.princeton.edu/courses/archive/spr07/cos598A/)
 
 #### Modern C++/ C
-
+-[A Guide to Common Acronyms in C++](https://quuxplusone.github.io/blog/2019/08/02/the-tough-guide-to-cpp-acronyms/)
 - [Dartmouth CS50 Resources (ANSI C)](https://www.cs.dartmouth.edu/~campbell/cs50/resources.html)
 
 #### Python
