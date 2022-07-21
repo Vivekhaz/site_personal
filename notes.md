@@ -1,46 +1,31 @@
 ---
 layout: page
-title: Notes and Links
+title: Links & Notes
 published: true
 ---
 
---------------------------------------------------------------------------------
-
-
-## Notes
-
-A collection of notes on the courses I've taken, topics I've studied, and other things I'm interested in. Forever in progress.
-
---------------------------------------------------------------------------------
-### Course Work
-These are my notes for the classes that lend themselves to digital notes. Some of these will link to repos, some to pdfs, and others to course websites.
-
-
-- [PHIL 38.01: Equality, Justice, and Democracy](https://vivekhaz.github.io/PHIL38/)
-- [SOCY 49.01: Theories of Democratization](https://vivekhaz.github.io/SOCY49/)
-
-
---------------------------------------------------------------------------------
-### Papers and Topics
-These are annotations on technical papers I've tried to understand, and on broader topics I want to pursue.
 
 --------------------------------------------------------------------------------
 ## Links
 
-A list of bookmarks I found helpful or interesting. These might be blogs, research groups, repos, or anything else which can be found with a URL.
+A 2020 passtime of mine was to curate web pages I liked that aren't from large content platforms. Here is a bit of the result, with some annotations. A list of bookmarks I found helpful or interesting. These might be blogs, research groups, repos, or anything else which can be found with a URL.
 
 ### CS Resources
 CS-related course websites, texts, and anything else that might fall into this category.
 
-In Quarantime, this site has been incredible.
+This site was invaluable in quarantine. I haven't been as active recently, but I hope it will have a long tail of relevance as conference talks are streamed.
 - [researchseminars.org](https://researchseminars.org)
 
 #### Probability & Statistics
+- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)
+An excellent textbook in applied statistics. Free to read online.
+
 
 #### Deep Learning
 
 - [Deep Learning for Curious People](https://lilianweng.github.io/lil-log/2017/06/21/an-overview-of-deep-learning.html)
 - [WildML (Denny Britz)](http://www.wildml.com)
+- [Fast AI](https://fast.ai)
 
 #### Reinforcement Learning
 
@@ -81,7 +66,11 @@ In Quarantime, this site has been incredible.
 
 #### Blogs
 
+#### Lisp Stuff
 
+I'm not a Lisp Hacker, but its fun to observe their universe from the periphery.
+
+-(Beautiful Racket)[https://beautifulracket.com/]
 
 #### Fun Links
 
@@ -95,10 +84,41 @@ Papers and pages I have found interesting or noteworthy.
 
 #### Graduate Studies
 
+I was (am?) thinking a bit about the trade-offs of going to grad school at some point.
+
 - [Princeton CS Department on Grad. School](https://www.cs.princeton.edu/academics/ugradpgm/gsg)
 - [Dartmouth CS Department on Grad. School]()
 
 #### Fun Webapps and Products
 
 - [A Nice Logo Generator](https://mybrandnewlogo.com/)
+
+#### Typography
+
+A fascination of mine.
+
 --------------------------------------------------------------------------------
+
+
+
+
+
+## Notes
+
+A collection of notes on the courses I've taken, topics I've studied, and other things I'm interested in. Forever in progress.
+
+See also [Intuitive Inference](https://intuitiveinference.com), listed in my projects, for a collaborative effort to explain applied statistics well.
+
+--------------------------------------------------------------------------------
+### Course Work
+These are my notes for the classes that lend themselves to digital notes. Some of these will link to repos, some to pdfs, and others to course websites.
+
+
+- [PHIL 38.01: Equality, Justice, and Democracy](https://vivekhaz.github.io/PHIL38/)
+- [SOCY 49.01: Theories of Democratization](https://vivekhaz.github.io/SOCY49/)
+
+
+--------------------------------------------------------------------------------
+### Papers and Topics
+These are annotations on technical papers I've tried to understand, and on broader topics I want to pursue.
+
